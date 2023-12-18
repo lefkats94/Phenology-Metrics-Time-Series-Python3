@@ -1,1 +1,2 @@
 # Phenology-Metrics-Time-Series-Python3
+The phenology metrics algorithm focuses on detecting the Start of Season (SOS), Peak of Season (POS), and End of Season (EOS) in plant life cycles. By processing time-series data, the algorithm systematically identifies critical points indicative of these phenological phases, such as the initiation of growth, the peak of biological activity, and the conclusion of the growing season. Employing statistical analyses, it quantifies key metrics like the duration of each phase and the timing of critical events.
